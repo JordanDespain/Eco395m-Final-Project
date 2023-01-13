@@ -2,4 +2,4 @@
 
 Please refer to the link below to our streamlit Dashboard. It includes project details and background.
 
-https://mvellimana-eco395m-final-pro-code-streamlitstreamlit-app-lbnk8j.streamlit.app/
+https://jordandespain-eco395m-final--code-streamlitstreamlit-app-n9xxf1.streamlit.app/
